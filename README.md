@@ -6,7 +6,7 @@
 ---
 
 ## 👽 ¿Qué es esta Nave Espacial?
-Es una suite forense y centro de mandos de **20 botones de impacto** diseñada desde el cero absoluto en C# para aniquilar el lag, triturar el bloatware parásito de Microsoft y escanear troyanos de fondo en tu SSD HIKSEMI WAVE o discos duros mecánicos sin tirones de fotogramas.
+Es una suite forense y centro de mandos de **20 botones de impacto** diseñada desde el cero absoluto en C# para aniquilar el lag, triturar el bloatware parásito de Microsoft y escanear troyanos de fondo en tu SSD o discos duros mecánicos sin tirones de fotogramas.
 
 ---
 
@@ -46,5 +46,5 @@ Es una suite forense y centro de mandos de **20 botones de impacto** diseñada d
 > ⚠️ **¡USA MÁQUINA VIRTUAL (VM)!** Si vas a usar el botón de acceso directo a la base de datos de malware de **Endermanch** para husmear la carpeta *jokes*, comprueba la información y nunca corras código malicioso en tu hardware real. 
 
 ---
-### 🛸 ¡Apoya el canal oficial de YouTube de la escudería en [@KojiroXD](https://youtube.com)!
+### 🛸 ¡Apoya el canal oficial de YouTube de la escudería en [@KojiroXD](https://youtube.com/@kojiroXD)!
 
