@@ -1,5 +1,5 @@
 # 🛸 UnPanel-SysAdmin-Tool v1.0
-> **Desarrollado por:** WindowsFan-Dev (KojiroXD) — *9 años, Quinta Normal, Chile* 🇨🇱
+> **Desarrollado por:** WindowsFan-Dev (KojiroXD) — *9 años, Chile* 🇨🇱
 > **Plataforma:** Windows 10 Nativo / .NET Framework 4.7.2 (.exe final puro)
 > **Rendimiento:** Optimización extrema operando al 1% de CPU real.
 
